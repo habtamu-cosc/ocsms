@@ -1,4 +1,5 @@
 from django.contrib import admin
+//Imports Django’s built-in admin site
 from django.urls import path, include
 from django.conf import settings
 from django.conf.urls.static import static
